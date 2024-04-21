@@ -1,10 +1,5 @@
 # Chatapp
-Just a simple app chat to learn how socket.io works
-
-# Heroku app
-Chat is hosted in Heroku and available in https://pezzetti-chat-app.herokuapp.com/
-
-## :rocket: Technologies
+Just a simple app chat made with socket.io
 
 This project uses :
 
@@ -17,7 +12,6 @@ This project uses :
     npm install
     npm run dev
 ```
-Web site will be available in http://localhost:3000
 
 Open multiple browsers, add an username and room name 
 
